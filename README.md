@@ -23,6 +23,9 @@ Borland C compiler should have the following settings before compiling:
 - Linker:
 	> No stack warning.
 
+Finally, You have to get your own copy of Dave, and the trainer should be located
+in the same game folder.
+
 ## Trainer activation
 To activate the trainer you must press ~ (telda). Once the cheat being activated, you
 will notice a red pixel in the bottom left of the screen as well as a beep sound.
